@@ -1,8 +1,8 @@
 # Formatacao_customizada
 
-No arquivo listo alguns exemplos de formatações customizadas de células em Excel.
+No arquivo **"Formatacao_customizada.xlsx"**, listo alguns exemplos de formatações customizadas avançada de células em Excel.
 
-Para maiores detalhes ver o artigo <link?>
+Para maiores detalhes ver o artigo em <link?>
 
 Boa sorte!
 
